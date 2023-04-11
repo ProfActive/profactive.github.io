@@ -4,7 +4,7 @@ export const members: Member[] = [
   {
     name: "Ганевич Вадім",
     staff: "Голова профбюро",
-    imgUrl: "img/vadim.png",
+    imgUrl: "img/vadim2.png",
     links: [
       {
         name: "instagram",
@@ -58,19 +58,24 @@ export const members: Member[] = [
     ],
   },
   {
-    name: "Тимчишин Анастасія",
+    name: "Мельник Оля",
     staff: "Заступниця ГП",
-    imgUrl: "img/nastya.png",
+    imgUrl: "img/olya.jpeg",
     links: [
       {
         name: "instagram",
-        url: "https://www.instagram.com/timchishin.anastasiia/",
+        url: "https://www.instagram.com/olia._.melnyk/",
         imageUrl: SocialImagesUrls.instagram,
       },
       {
         name: "telegram",
-        url: "https://t.me/nastya_tm3",
+        url: "https://t.me/melnyk_olia",
         imageUrl: SocialImagesUrls.telegram,
+      },
+      {
+        name: "facebook",
+        url: "https://www.facebook.com/profile.php?id=100015592515134",
+        imageUrl: SocialImagesUrls.facebook,
       },
     ],
   },
@@ -125,19 +130,29 @@ export const members: Member[] = [
     ],
   },
   {
-    name: "Попеску Андрій",
+    name: "Візнюк Вікторія",
     staff: "YouTube",
-    imgUrl: "img/andriy.png",
+    imgUrl: "img/vika.jpg",
     links: [
       {
         name: "instagram",
-        url: "https://www.instagram.com/andepopesku/",
+        url: "https://instagram.com/vizniuchkaaa",
         imageUrl: SocialImagesUrls.instagram,
       },
       {
         name: "telegram",
-        url: "https://t.me/de_libertated",
+        url: "https://t.me/vizniuchkaaa",
         imageUrl: SocialImagesUrls.telegram,
+      },
+      {
+        name: "facebook",
+        url: "https://www.facebook.com/profile.php?id=100010184525492",
+        imageUrl: SocialImagesUrls.facebook,
+      },
+      {
+        name: "tiktok",
+        url: "http://www.tiktok.com/@vizniuchkaaa",
+        imageUrl: SocialImagesUrls.tiktok,
       },
     ],
   },

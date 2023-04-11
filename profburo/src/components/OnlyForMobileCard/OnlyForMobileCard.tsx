@@ -1,5 +1,7 @@
 import React, { FunctionComponent } from "react";
 
+import "./OnlyForMobileCard.styles.css";
+
 const OnlyForMobileCard: FunctionComponent = () => {
   return (
     <div className="only-for-mobile-card-wrapper">

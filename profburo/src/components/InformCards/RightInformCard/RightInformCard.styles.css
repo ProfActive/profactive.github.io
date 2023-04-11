@@ -1,0 +1,52 @@
+.instruction-card-r {
+  width: 95vw;
+  height: 400px;
+
+  margin-top: 60px;
+
+  background-color: var(--yellow);
+
+  border-radius: 0 50% 0 50%;
+}
+
+.card-header-r {
+  height: 30%;
+
+  display: flex;
+  justify-content: end;
+}
+
+.circle {
+  height: 100px;
+  width: 100px;
+
+  background-color: blue;
+
+  border-radius: 50%;
+
+  position: absolute;
+  margin-top: -30px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.number {
+  color: white;
+
+  font-size: 48px;
+}
+
+.card-content {
+  height: 200px;
+
+  margin-top: -30px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

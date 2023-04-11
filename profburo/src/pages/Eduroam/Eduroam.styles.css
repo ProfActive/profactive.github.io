@@ -1,0 +1,22 @@
+.edu-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  height: 50px;
+  width: 60%;
+
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+
+  margin-top: 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
